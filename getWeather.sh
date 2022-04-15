@@ -1,4 +1,4 @@
-#! /bin/zsh
+#! /bin/
 
 city=$1
 
